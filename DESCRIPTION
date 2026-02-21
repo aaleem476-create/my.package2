@@ -1,0 +1,10 @@
+Package: my.package2
+Type: Package
+Title: K-means clustering functions for Homework 5
+Version: 0.1.0
+Authors@R: person("Amna", "Aleem", email="aaleem476@gmail.com", role=c("aut","cre"))
+Description: This package contains functions and a Shiny app to perform k-means clustering and visualize results for Homework 5.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.3
